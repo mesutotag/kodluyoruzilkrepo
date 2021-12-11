@@ -1,0 +1,2 @@
+def mesut();
+def ali();
